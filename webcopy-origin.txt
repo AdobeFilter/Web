@@ -1,0 +1,32 @@
+Uri: https://mc.yandex.ru/watch/4217851
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\watch\4217851
+Content Type: image/gif
+
+Uri: https://numsys.ru/calculate
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\calculate.html
+Content Type: text/html
+
+Uri: https://numsys.ru/favicon.ico
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://numsys.ru/main.9a9345f6b2dd7873.js
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\main.9a9345f6b2dd7873.js
+Content Type: application/javascript
+
+Uri: https://numsys.ru/polyfills.8cc6e2479c44255d.js
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\polyfills.8cc6e2479c44255d.js
+Content Type: application/javascript
+
+Uri: https://numsys.ru/runtime.cfca7ebb8bec23ac.js
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\runtime.cfca7ebb8bec23ac.js
+Content Type: application/javascript
+
+Uri: https://numsys.ru/styles.b9b86297dfa35ba5.css
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\styles.b9b86297dfa35ba5.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-P3SJTR0MZG
+File Name: C:\Users\X\Downloads\Downloaded Web Sites\numsys.ru\gtag\js
+Content Type: application/javascript
+
